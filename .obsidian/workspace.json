@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notion/Minishell/ORGANIZATION BOARD/Allowed functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Allowed functions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notion/Minishell/ORGANIZATION BOARD/Allowed functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Allowed functions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notion/Minishell/ORGANIZATION BOARD/Allowed functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Allowed functions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Notion/Minishell/ORGANIZATION BOARD/Allowed functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Allowed functions"
             }
           },
           {
@@ -180,6 +180,39 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "84bbea6c69602215",
-  "lastOpenFiles": []
+  "active": "e15b330c473f0659",
+  "lastOpenFiles": [
+    "Notion/Minishell/Minishell.md",
+    "Notion/Add “declare -x” at the beginning of each line when printing the export list.md",
+    "Codam.jpg",
+    "Notion/Minishell/TASKS BOARD/Untitled.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Untitled 2.md",
+    "Notion/Minishell/ORGANIZATION BOARD/To discuss with Lisandro.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Parsing - Shell grammar.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Execution.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Redirections.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Memory allocated.md",
+    "Notion/Minishell/ORGANIZATION BOARD/README.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Untitled.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Unit tests.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Bonus.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Input Syntax.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Signals.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Makefile.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Where to look for.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Git branches.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Possible structures.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Subject.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Tester resources.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Minishell repositories.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Syntax.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Expansions.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Heredoc.md",
+    "Notion/Minishell/ORGANIZATION BOARD/Commenting.md",
+    "Notion/Minishell/ORGANIZATION BOARD",
+    "Notion/Minishell/TASKS BOARD/Built-ins",
+    "Notion/Minishell/TASKS BOARD",
+    "Notion/Minishell",
+    "Notion"
+  ]
 }

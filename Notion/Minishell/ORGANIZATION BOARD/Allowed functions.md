@@ -1,0 +1,71 @@
+---
+Status: Not started
+---
+### Functions and Manuals:
+  
+- [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+- Readline Library
+    - `[readline](https://tiswww.case.edu/php/chet/readline/readline.html)`
+    - `[rl_clear_history](https://tiswww.case.edu/php/chet/readline/readline.html#index-rl_005fclear_005fhistory)`
+    - `[rl_on_new_line](https://tiswww.case.edu/php/chet/readline/readline.html#index-rl_005fon_005fnew_005fline)`
+    - `[rl_replace_line](https://tiswww.case.edu/php/chet/readline/readline.html#index-rl_005freplace_005fline)`
+    - `[rl_redisplay](https://tiswww.case.edu/php/chet/readline/readline.html#index-rl_005fredisplay)`
+    - `[add_history](https://tiswww.case.edu/php/chet/readline/readline.html#Basic-Behavior)`
+- Standard I/O
+    - `[printf](https://man7.org/linux/man-pages/man3/printf.3.html)`
+    - `[malloc](https://man7.org/linux/man-pages/man3/free.3.html)`
+    - `[free](https://man7.org/linux/man-pages/man3/free.3p.html)`
+- Pipe
+    - `[pipe](https://man7.org/linux/man-pages/man2/pipe.2.html)`
+- File and Directory Operations
+    - `[access](https://man7.org/linux/man-pages/man2/faccessat.2.html)`
+    - `[open](https://man7.org/linux/man-pages/man2/open.2.html)`
+    - `[read](https://man7.org/linux/man-pages/man2/read.2.html)`
+    - `[write](https://man7.org/linux/man-pages/man2/write.2.html)`
+    - `[close](https://man7.org/linux/man-pages/man2/close.2.html)`
+    - `[stat](https://man7.org/linux/man-pages/man2/stat.2.html)`
+    - `[lstat](https://man7.org/linux/man-pages/man3/fstatat.3p.html)`
+    - `[fstat](https://man7.org/linux/man-pages/man3/fstatat.3p.html)`
+    - `[unlink](https://man7.org/linux/man-pages/man2/unlink.2.html)`
+    - `[opendir](https://man7.org/linux/man-pages/man3/opendir.3.html)`
+    - `[readdir](https://man7.org/linux/man-pages/man3/readdir.3.html)`
+    - `[closedir](https://man7.org/linux/man-pages/man3/closedir.3.html)`
+- Directory and Path Functions
+    - `[getcwd](https://man7.org/linux/man-pages/man2/getcwd.2.html)`
+    - `[chdir](https://man7.org/linux/man-pages/man2/chdir.2.html)`
+- Process Control
+    - `[fork](https://man7.org/linux/man-pages/man2/fork.2.html)`
+    - `[wait](https://man7.org/linux/man-pages/man2/waitpid.2.html)`
+    - `[waitpid](https://man7.org/linux/man-pages/man2/waitpid.2.html)`
+    - `[wait3](https://man7.org/linux/man-pages/man2/wait4.2.html)`
+    - `[wait4](https://man7.org/linux/man-pages/man2/wait4.2.html)`
+    - `[execve](https://man7.org/linux/man-pages/man2/execve.2.html)`
+    - `[exit](https://man7.org/linux/man-pages/man3/exit.3.html)`
+- Terminal Control
+    - `[isatty](https://www.man7.org/linux/man-pages/man3/isatty.3.html)`
+    - `[ttyname](https://www.man7.org/linux/man-pages/man3/ttyname.3.html)`
+    - `[ttyslot](https://man7.org/linux/man-pages/man3/ttyslot.3.html)`
+    - `[ioctl](https://man7.org/linux/man-pages/man2/ioctl.2.html)`
+    - `[tcsetattr](https://man7.org/linux/man-pages/man3/tcsetattr.3p.html)`
+    - `[tcgetattr](https://man7.org/linux/man-pages/man3/tcgetattr.3p.html)`
+- Signal Handling
+    - `[signal](https://man7.org/linux/man-pages/man2/signal.2.html)`
+    - `[sigaction](https://man7.org/linux/man-pages/man2/sigaction.2.html)`
+    - `[sigemptyset](https://man7.org/linux/man-pages/man3/sigemptyset.3p.html)`
+    - `[sigaddset](https://man7.org/linux/man-pages/man3/sigaddset.3p.html)`
+    - `[kill](https://man7.org/linux/man-pages/man2/kill.2.html)`
+- Duplicating File Descriptors
+    - `[dup](https://man7.org/linux/man-pages/man2/dup.2.html)`
+    - `[dup2](https://man7.org/linux/man-pages/man2/dup.2.html)`
+- Error Handling
+    - `[strerror](https://man7.org/linux/man-pages/man3/strerror.3.html)`
+    - `[perror](https://man7.org/linux/man-pages/man3/perror.3.html)`
+- Environment Variables
+    - `[getenv](https://man7.org/linux/man-pages/man3/getenv.3.html)`
+- [Termcap Library](https://man7.org/linux/man-pages/man3/curs_termcap.3x.html)
+    - `tgetent`
+    - `tgetflag`
+    - `tgetnum`
+    - `tgetstr`
+    - `tgoto`
+    - `tputs`
